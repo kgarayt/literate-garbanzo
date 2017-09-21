@@ -1,7 +1,7 @@
 import sys
 
 def mult(a,b):
-	print a*b*2
+	print a*b*3
 	
 if __name__ == '__main__':
 	print "Here the result :"
